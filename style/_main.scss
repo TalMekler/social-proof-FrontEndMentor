@@ -207,13 +207,13 @@ body {
         padding-right: 10rem;
         margin-top: 4.75rem;
         display: flex;
-        gap: 2rem;
 
         .testimonial {
             padding: 2.5rem;
             
             &:not(:last-child) {
                 margin-bottom: 0;
+                margin-right: 2rem;
             }
 
             &:nth-child(2){
